@@ -4,13 +4,10 @@
  */
 package com.mycompany.support.model;
 
-/**
- *
- * @author DANIE
- */
 public enum Priority {
 
     BASIC,
     INTERMEDIATE,
-    CRITICAL
+    CRITICAL,
+    URGENT
 }
